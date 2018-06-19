@@ -4,7 +4,7 @@
 // @noframes
 // @version      0.1
 // @description  Facebook | www.facebook.com | Posts
-// @author       You
+// @author       oleh.kyshlyan
 // @match        https://www.facebook.com/*/posts/*
 // @grant        none
 // ==/UserScript==
